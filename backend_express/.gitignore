@@ -1,0 +1,6 @@
+uploads/*
+.*mp3
+node_modules/
+.env
+testaudio/*
+au3.mp3
